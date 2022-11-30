@@ -20,25 +20,7 @@
   <h1>Wiki Site</h1>
   <p>there will be a wiki site  <a href="wiki">here</a> so you can know the site
 </form>
-<button type="button" onclick="alertorsomethin()">Click Me</button>
-<button type="button" onclick="testorwhat()">hey click for windwo open</button>
 </body>
-<script>
-function alertorsomethin(){
-	window.open('https://example.com')
-}
-function testorwhat(){
-	proceed = confirm('Are you sure you want to unlock the secret? Please click ok to continue...');
-	if(proceed){
-		window.open('https://www.youtube.com', "name test is funny");
-	}else{
-		var myWindow = window.open("", "", "width=800,height=600");
-		myWindow.document.write("<p>THERE IS NO MORE SECRET ITS ABOUT MONEY OOOOOOOH NOOOOOOOOOO</p>");
-	}
-	
-}
-
-</script>
 <style>
 body {font-family: Arial}
 </style>

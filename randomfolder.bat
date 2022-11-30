@@ -1,5 +1,5 @@
 md files
 cd files
 type nul > index.php
+echo Folder Backup Sucessfully
 pause
-// note this is for the backup for the files folder
